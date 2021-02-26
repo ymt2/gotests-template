@@ -6,6 +6,7 @@ Templates for [github.com/cweill/gotests](https://github.com/cweill/gotests).
 
 - Use [github.com/google/go-cmp/cmp](https://godoc.org/github.com/google/go-cmp/cmp) instead of reflect.DeepEqual
 - Use map to manage test case instead of slice
+- Make tests run in parallel
 
 ## How to use
 
